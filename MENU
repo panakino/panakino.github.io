@@ -1,0 +1,16 @@
+# Create MENU file (yes, “MENU” with no file extension)
+## Different options:
+IPA
+    Home                [index.html]
+    Members	        [members.html]
+    Research	        [research.html]
+    Publication         [pub.html]
+    Project             [project.html]
+    Teaching            [teaching.html]
+    Opening             [open.html]
+    History             [history.html]
+    ##Activities         [activities.html]
+
+Sites
+   EE @ KU              [https://ee.korea.ac.kr/]
+   Github               [https://github.com/panakino]
