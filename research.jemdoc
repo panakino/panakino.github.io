@@ -1,0 +1,82 @@
+# jemdoc: menu{MENU}{research.html}
+= Research Area
+
+== Image Processing Algorithms for Inverse Problems 
+
+#~~~
+#{}{img_left}{denoising.png}{alt text}{250px}
+#There are a lot of scenarios to enhance image quality such as denoising, inpainting, dealiasing, etc. These application can be properly approximated with precise mathematical models such as Gaussian/Poisson noise model, called ill-posed inverse problems. The figure showed our algorithm (Robust ALOHA) enables to remove random-valued impulsive noises with low-rank Hankel Matrix approaches.
+#(figure from Jin, Kyong Hwan, and Ye, Jong Chul, Sparse and low-rank decomposition of a Hankel structured matrix for impulse noise removal. IEEE Transactions on Image Processing 27.3 (2018): 1448-1461.)
+#~~~
+=== Single image super resolution with implicit neural representation 
+~~~
+{}{img_left}{LTE_res.png}{alt text}{1200px}
+~~~
+
+~~~
+Recent works with an implicit neural function shed light on representing images in arbitrary resolution. Upon that, we propose a Local Texture Estimator (LTE), a dominant-frequency estimator for natural images, enabling an implicit function to capture fine details while reconstructing images in a continuous manner. When jointly trained with a deep super-resolution (SR) architecture, LTE is capable of characterizing image textures in 2D Fourier space.
+\n\n/figure from [LTE_cvpr.pdf LTE_paper(CVPR2022)], x32 upsampling using LTE/
+
+~~~
+
+=== Image warping with implicit neural representation 
+~~~
+{}{img_left}{LTEW_res.png}{alt text}{1200px}
+~~~
+
+~~~
+We propose a local texture estimator for image warping (LTEW) followed by an implicit neural representation to deform images into continuous shapes. Local textures estimated from a deep super-resolution (SR) backbone are multiplied by locally-varying Jacobian matrices of a coordinate transformation to predict Fourier responses of a warped image. Our LTEW-based neural function outperforms existing warping methods for asymmetricscale SR and homography transform. Furthermore, our algorithm well generalizes arbitrary coordinate transformations, such as homography transform with a large magnification factor and equirectangular projection (ERP) perspective transform, which are not provided in training.
+
+\n\n
+/figure from [LTEW.pdf LTEW_paper(ECCV2022)], ERP to Perspective view using LTEW/
+~~~
+
+#=== Neural network toward inverse problems in image processing 
+#~~~
+#{}{img_left}{fbpconv.png}{alt text}{400px}
+#Recently, inverse problems in image processing are resolved by a trainable deep network given by (c) in the figure. We investigate core characters of neural networks toward image processing.
+#(figure from Jin, Kyong Hwan, et al. Deep convolutional neural network for inverse problems in imaging. IEEE Transactions on Image Processing 26.9 (2017): 4509-4522.)
+#~~~
+
+
+== Computational Photography 
+
+~~~
+{}{img_left}{hdr.png}{alt text}{200px}
+~~~
+
+~~~
+Camera is a complex system which has a lot of ill-posed inverse problems inside. Especially, many hand-crafted digital processing tasks -computational photography -such as demosaicking, denoising, auto-exposure, white-balance, HDR (high dynamic range scene), alignment, are handled  in ISP (image signal processor). Nowadays, such signal processing in chips has transferred into neural-networks in academia and presented in many channels. We investigate conventional image processing in computational photography with deep neural networks.
+\n\n
+/figure from [https://en.wikipedia.org/wiki/Computational_photography wikipedia]/
+~~~
+
+== Image Enhancement - Decontouring, Lossless/Lossy Compression Artifact Removal
+~~~
+For image transferring or video streaming, compressed bitstreams are conveyed through communication's net. During compression of contents, several artifacts arose such as contouring, blocky artifacts, color inconsistency, quantization errors, etc. People are unpleasant to such artifacts, so we would like to suppress those artifacts with deterministic processing or learnable neural networks. Main difference of this task with previous inverse problems is that ground-truth is always accessible (very important for supervised learning) because compression techniques begin their processing from original  contents.
+~~~
+
+
+=== Image dequantization/decontouring
+ABCD : arbitrary bitwise coefficients for de-quantization (CVPR 23)
+
+#[video label_abcd_result_3.mp4]
+## allowfullscreen 
+#~~~
+#{}{raw}
+#<iframe width="512" height="656" src=label_abcd_result_3.mp4 frameborder="0" autoplay=1 ></iframe>
+#~~~
+
+== Signal Processing based on AI for Multi-channel/Multi-dimensional Data
+
+
+~~~
+{}{img_left}{time-dip.png}{alt text}{400px}
+~~~
+
+~~
+We investigate a novel unsupervised/semi-supervised deep-learning-based algorithm to solve the inverse problem found in dynamic magnetic resonance imaging (MRI). Our method needs neither prior training nor additional data; in particular, it does not require either electrocardiogram or spokes-reordering in the context of cardiac images. It generalizes to sequences of images the recently introduced deep-image-prior approach. The essence of the proposed algorithm is to proceed in two steps to fit k-space synthetic measurements to sparsely acquired dynamic MRI data.
+
+\n\n
+/figure from Yoo, Jaejun, Jin, Kyong Hwan, et al. Time-Dependent Deep Image Prior for Dynamic MRI. arXiv preprint arXiv:1910.01684 (2019)./
+~~~

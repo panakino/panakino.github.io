@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{project.html}
+= Project Granted 
+
+== On-going
+
+~~~
+{}{table}{TABLENAME}
+Period(YYYYMMDD) | Title | Source ||
+2022.06.01-2024.12.31 | 다기관 뇌 영상데이터 분석을 위한 연합 학습 인공지능 개발 | 과학기술정보통신부||
+2022.04.01-2026.12.31 | 경찰관 맞춤형 건강관리 서비스를 위한 지능형 빅데이터 통합플랫폼 개발| 경찰청 ||
+2023.01.01-2024.12.31 | (과기원공동연구프로젝트)뇌질환 극복을 위한 최소침습 인공지능 전자뇌 개발| 과학기술정보통신부 ||
+2021.07.01-2025.12.31 | 인공지능 혁신 허브 연구 개발| 과학기술정보통신부||
+2021.06.01-2024.02.28 | 인지적 역촉각 복제 시스템 연구실 | 연구재단 기초연구실
+~~~
+
+== Terminated
+
+~~~
+{}{table}{TABLENAME}
+Period(YYYYMMDD) | Title | Source ||
+2022.08.01-2023.07.31 | 칼로리 섭취량 분석을 위한 음식 분류 알고리즘 개발| 핀셋 헬쓰케어|| 
+2022.05.01-2023.04.30 |(RnD 혁신지원 프로그램)   비전 트랜스포머를 이용한 카메라 파이프라인 모델 개발(Camera pipeline development using Vision Transformer) | KISTI|| 
+2022.03.01-2022.08.31 | 박테리아 검출 딥러닝 알고리즘 개발| thewavetalk|| 
+2021.06.01-2022.05.31 | 비지도 학습 기반 생성 인공지능 신경망을 이용한 연속사진 영상처리  | 연구재단 기본연구  
+~~~
+
+
+
+= Research Advisory 
+
+~~~
+{}{img_left}{logo_SR.png}{alt text}{150px}{px}
+\[2022 MAR \~ 2022 DEC\] [http://research.samsung.com/ Samsung Research] : advice on deep learning models (Visual Perception Team) \n
+#\[2023 MAY \~ 2023 DEC\] [http://research.samsung.com/ Samsung Research] : advice on deep learning models (Visual Perception Team)
+~~~
+\n
+~~~
+{}{img_left}{thewavetalk.png}{alt text}{150px}{px}
+\[2021 DEC \~ \] [http://www.thewavetalk.com/ thewavetalk] : advice on deep learning models
+~~~
+

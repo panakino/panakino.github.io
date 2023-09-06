@@ -1,0 +1,80 @@
+# jemdoc: menu{MENU}{pub.html}
+= Publication
+
+== Peer-reviewed
+
+=== 2023 
+- {{<font><b>}}Minsu Kim, Yongjun Lee, Woo Kyoung Han, and K. H. Jin{{</b></font>}}, “Learning Residual Elastic Warps for Image Stitching under Dirichlet Boundary Condition,” IEEE/CVF Winter Conference on Applications of Computer Vision ({{<font><b>}}WACV{{</b></font>}}), 2024, {{<font color=orange size=+0.5><b>}} Accepted {{</b></font>}}, \[[https://arxiv.org/pdf/2309.01406.pdf PDF], [https://github.com/minshu-kim/REwarp {{<font color=red size=+0.5>}}Code(comingsoon){{</font>}}]\]
+
+- {{<font><b>}}Minsu Kim{{</b></font>}}, Jaewon Lee, {{<font><b>}}Byeonghun Lee{{</b></font>}}, Sunghoon Im and {{<font><b>}}K. H. Jin{{</b></font>}}, “Implicit Neural Image Stitching With Enhanced and Blended Feature Reconstruction,” IEEE/CVF Winter Conference on Applications of Computer Vision ({{<font><b>}}WACV{{</b></font>}}), 2024, {{<font color=orange size=+0.5><b>}} Accepted {{</b></font>}}, \[[https://arxiv.org/pdf/2309.01409.pdf PDF], [https://github.com/minshu-kim/NIS {{<font color=red size=+0.5>}}Code(comingsoon){{</font>}}]\]
+
+- M. Kang, P. Chikontwe, S. Kim, {{<font><b>}}K. H. Jin{{</b></font>}}, E. Adeli, K. M. Pohl, and Sang Hyun Park, “One-shot Federated Learning on Medical Data using Knowledge Distillation with Image Synthesis and Client Model Adaptation,” Medical Image Computing and Computer Assisted Interventions ({{<font><b>}}MICCAI{{</b></font>}}), 2023, {{<font color=orange size=+0.5><b>}} Accepted {{</b></font>}}
+
+- {{<font><b>}}Woo Kyoung Han, Byeonghun Lee{{</b></font>}}, Sang Hyun Park, and {{<font><b>}}K. H. Jin{{</b></font>}}, "ABCD : Arbitrary Bitwise Coefficient for De-quantization," IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2023, \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.pdf  PDF],[https://github.com/WooKyoungHan/ABCD {{<font color=red size=+0.5>}} Code{{</font>}}], [ABCD_poster.pdf Poster]\] 
+
+- {{<font><b>}}Byeonghyun Pak{{</b></font>}}, Jaewon Lee, and {{<font><b>}}K. H. Jin{{</b></font>}}, "B-spline Texture Coefficients Estimator for Screen Content Image Super-Resolution," IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2023, {{<font color=blue size=+0.5><b>}} Highlight {{</b></font>}} \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Pak_B-Spline_Texture_Coefficients_Estimator_for_Screen_Content_Image_Super-Resolution_CVPR_2023_paper.pdf PDF], [https://github.com/ByeongHyunPak/btc {{<font color=red size=+0.5>}}Code{{</font>}}], [BTC_poster.pdf Poster]\] 
+
+- S. Shin, M. W. Kim, {{<font><b>}}K. H. Jin{{</b></font>}}, K. M. Yi, Y. Kohmura, T. Ishikawa, J. H. Je, and J. Park, "Deep 3D reconstruction of synchrotron X-ray computed tomography for intact lungs," Scientific Reports 13, Article number:1738, 2023 \[[https://www.nature.com/articles/s41598-023-27627-y Link]\] 
+
+=== 2022 
+
+- {{<font><b>}}Jaewon Lee{{</b></font>}}, Kwang Pyo Choi, and {{<font><b>}}K. H. Jin{{</b></font>}}, "Learning Local Implicit Fourier Representation for Image Warping," European Conference on Computer Vision ({{<font><b>}}ECCV{{</b></font>}}), 2022 \[[https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780179.pdf PDF], [https://github.com/jaewon-lee-b/ltew {{<font color=red size=+0.5>}}Code{{</font>}}], [ECCV22_poster.pdf Poster]\] 
+
+
+- {{<font><b>}}Jaewon Lee{{</b></font>}} and {{<font><b>}}K. H. Jin{{</b></font>}}, "Local Texture Estimator for Implicit Representation Function," IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2022 \[[https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Local_Texture_Estimator_for_Implicit_Representation_Function_CVPR_2022_paper.pdf PDF], [https://github.com/jaewon-lee-b/lte {{<font color=red size=+0.5>}}Code{{</font>}}], [CVPR22_poster.pdf Poster]\] 
+
+
+
+=== 2021 
+
+- J. Yoo, {{<font><b>}}K. H. Jin{{</b></font>}}, H. Gupta, J. Yerly, M. Stuber, and M. Unser,“Time-dependent Deep Image Prior for dynamic MRI,” IEEE Transactions on Medical Imaging in press (2021) \[[https://ieeexplore.ieee.org/abstract/document/9442767 Link] , [TMI3084288.pdf PDF]\] 
+
+- {{<font><b>}}K. H. Jin{{</b></font>}}, “Deep Block Transform for Autoencoders,” IEEE Signal Processing Letters, vol.28 (2021): 1016-1019. \[[https://ieeexplore.ieee.org/document/9436009 Link] , [21BTN.pdf PDF]\]
+
+
+=== Before 2021 
+
+- J. Min, K. H. Jin, M. Unser, and J. C. Ye, "Grid-free localization algorithm using low-rank Hankel matrix for super-resolution microscopy," IEEE Transactions on Image Processing 27.10 (2018): 4771-4786. \[[https://ieeexplore.ieee.org/abstract/document/8374063 Link] , [TIP2843718.pdf PDF]\]
+
+- K. Lee, Y. Li, K. H. Jin, and J. C. Ye, "Unified Theory for Recovery of Sparse Signals in a General Transform Domain," IEEE Transactions on Information Theory 64.8 (2018): 5457-5477. \[[https://ieeexplore.ieee.org/abstract/document/8382318 Link]\]
+
+- H. Gupta, K. H. Jin, H. Q. Nguyen, M. T. McCann, and M. Unser, "CNN-based projected gradient descent for consistent CT image reconstruction," IEEE Transactions on Medical Imaging 37.6 (2018): 1440-1453. \[[https://ieeexplore.ieee.org/abstract/document/8353870 Link] , [TMI08353870.pdf PDF]\]
+
+- H. Choi, K. H. Jin, and Alzheimer's Disease Neuroimaging Initiative. "Predicting cognitive decline with deep learning of brain metabolism and amyloid imaging," Behavioural brain research 344 (2018): 103-109.
+
+- K. H. Jin and J. C. Ye. "Sparse and low-rank decomposition of a Hankel structured matrix for impulse noise removal," IEEE Transactions on Image Processing 27.3 (2017): 1448-1461. \[[https://ieeexplore.ieee.org/abstract/document/8101510 Link] , [TIP2771471.pdf PDF]\]
+
+- M. T. McCann, K. H. Jin, and M. Unser, "Convolutional neural networks for inverse problems in imaging: A review," IEEE Signal Processing Magazine 34.6 (2017): 85-95. \[[https://ieeexplore.ieee.org/abstract/document/8103129 Link]\] 
+
+- K. H. Jin, M. T. McCann, E. Froustey, M. Unser, "Deep convolutional neural network for inverse problems in imaging," IEEE Transactions on Image Processing 26.9 (2017): 4509-4522. \[[https://ieeexplore.ieee.org/document/7949028 Link] , [TIP2713099.pdf PDF]\]
+
+- K. H. Jin, J. Y. Um, D. Lee, J. Lee, S. H. Park, and J. C. Ye, "MRI artifact correction using sparse + low-rank decomposition of annihilating filter-based Hankel matrix," Magnetic resonance in medicine 78.1 (2017): 327-340.
+
+- K. H. Jin, D. Lee, and J. C. Ye, "A general framework for compressed sensing and parallel MRI using annihilating filter based low-rank Hankel matrix," IEEE Transactions on Computational Imaging 2.4 (2016): 480-495. \[[https://ieeexplore.ieee.org/abstract/document/7547372 Link] , [TCI2601296.pdf PDF]\]
+
+- H. Choi and K. H. Jin, "Fast and robust segmentation of the striatum using deep convolutional neural networks," Journal of neuroscience methods 274 (2016): 146-153.
+
+- J. Lee, K. H. Jin, and J. C. Ye, "Reference-free single-pass EPI Nyquist ghost correction using annihilating filter-based low rank Hankel matrix (ALOHA)," Magnetic resonance in medicine 76.6 (2016): 1775-1789.
+
+- D. Lee, K. H. Jin, E. Y. Kim, S. H. Park, and J. C. Ye, "Acceleration of MR parameter mapping using annihilating filter-based low rank hankel matrix (ALOHA)," Magnetic resonance in medicine 76.6 (2016): 1848-1864.
+
+- J. C. Ye, J. M. Kim, K. H. Jin, and K. Lee, "Compressive sampling using annihilating filter-based low-rank interpolation," IEEE Transactions on Information Theory 63.2 (2016): 777-801. \[[https://ieeexplore.ieee.org/abstract/document/7744614 Link]\] 
+
+- K. H. Jin and J. C. Ye, "Annihilating filter-based low-rank Hankel matrix approach for image inpainting," IEEE Transactions on Image Processing 24.11 (2015): 3498-3511. \[[https://ieeexplore.ieee.org/abstract/document/7127011 Link]\] 
+
+- J. W. Lim, K. Lee, K. H. Jin, S. Shin, S. Lee, Y. Park, and J. C. Ye, "Comparative study of iterative reconstruction algorithms for missing cone problems in optical diffraction tomography," Optics express 23.13 (2015): 16933-16948.
+
+- D. Yee, K. H. Jin, J. S. Yahng, H. Yang, C. Y. Kim, and J. C. Ye, "High-speed terahertz reflection three-dimensional imaging using beam steering," Optics express 23.4 (2015): 5027-5034.
+
+- K. H. Jin, Y. G. Kim, S. H. Cho, J. C. Ye, and D. Yee, "High-speed terahertz reflection three-dimensional imaging for nondestructive evaluation," Optics express 20.23 (2012): 25432-25440.
+
+- M. Yi, H. Kim, K. H. Jin, J. C. Ye, and J. Ahn, "Terahertz substance imaging by waveform shaping," Optics express 20.18 (2012): 20783-20789.
+
+- S. Park, K. H. Jin, M. Yi, J. C. Ye, J. Ahn, and K. H. Jeong, "Enhancement of terahertz pulse emission by optical nanoantenna," ACS nano 6.3 (2012): 2026-2031.
+
+- Y. Kim, K. H. Jin, J. C. Ye, J. Ahn, and D. Yee, "Wavelet power spectrum estimation for high-resolution terahertz time-domain spectroscopy," Journal of the Optical Society of Korea 15.1 (2011): 103-108.
+
+- K. Lee, K. H. Jin, J. C. Ye, and J. Ahn, "Coherent optical computing for T-ray imaging," Optics letters 35.4 (2010): 508-510.
+
+- K. H. Jin, Y. Kim, D. Yee, O. K. Lee, and J. C. Ye, "Compressed sensing pulse-echo mode terahertz reflectance tomography," Optics letters 34.24 (2009): 3863-3865.
+

@@ -1,0 +1,169 @@
+# jemdoc: menu{MENU}{members.html}
+= Professor 
+
+~~~
+{}{img_left}{khjin.jpg}{alt text}{100px}{px}
+Kyong Hwan Jin | 진경환  |\n
+#[http://www.jinkh.com homepage]\n
+Associate Professor\n
+kyong_jin@korea.ac.kr\n
+[https://scholar.google.com/citations?user=aLYNnyoAAAAJ&hl=en Google Scholar]\n
+#[https://ice.dgist.ac.kr/en/article/1201/ Short Bio(eng)]\n
+[CV_jkh.pdf CV]
+~~~
+
+* Work Experience
+- Associate Professor, Korea University, School of Electrical Engineering, Sep. 2023 - Current
+- Assistant Professor, DGIST, Dept. of Electrical Engineering and Computer Science (EECS), Feb. 2021 - Aug. 2023 
+- Staff Engineer, Samsung Research, Camera T/F - Global AI Center, South Korea, Sep. 2019 - Feb. 2021
+-  Post-doc., EPFL @ [http://bigwww.epfl.ch/ Biomedical Imaging Group] (Prof. Unser), Switzerland, Jun. 2016 - Aug. 2019
+-  Post-doc., KAIST @ [https://bispl.weebly.com/ BISPL] (Prof. Ye), South Korea, Mar. 2015 - May. 2016
+
+* Education
+- Ph.D. , Dept. of Bio & Brain Engineering, KAIST, South Korea, 2008-2015.\n
+Advisor : Jong Chul, Ye
+- B.S.  , Dept. of Bio & Brain Engineering, KAIST, South Korea, 2004-2008.
+
+* Reviewer Service
+- CVPR, ECCV, ICCV, ICLR, ICML, NeurIPS, ACCV, etc.
+- IEEE Trans. Image Proc., Computational Imaging, Signal Processing, etc.
+
+#= Researchers 
+#
+#~~~
+#{}{img_left}{jkim.jpg}{alt text}{100px}{px}
+#Jaewon Lee | 이재원 | 
+#[https://www.linkedin.com/in/jaewonlee-dg homepage]\n 
+#Technical Research Personnel | 전문연구요원\n
+#M.S., School of Electrical Engineering, KAIST, 2021\n
+#B.S., School of Electrical Engineering, KAIST, 2019\n
+#ljw3136@dgist.ac.kr\n
+#\n
+#Research - Implicit Neural Representation \n
+#~~~
+
+= Ph.D. Candidates 
+~~~
+{}{img_left}{skim.png}{alt text}{100px}{px}
+Seonhwa Kim | 김선화 \n
+M.S., Dept. of Electrical Engineering and Computer Science(EECS), DGIST, 2023\n
+B.S., School of Transdisciplinary Studies, DGIST, 2021\n
+tbhb0615@dgist.ac.kr\n
+\n
+Research - Multiframe denoising\n
+~~~
+#\n
+#~~~
+#{}{img_left}{gschoi.jpg}{alt text}{100px}{px}
+#Gisoon Choi | 최기순\n
+#B.S., School of Transdisciplinary Studies, DGIST, 2021\n
+#choigisoon@dgist.ac.kr\n
+#\n
+#Research - Tactile signal processing\n
+#~~~
+\n
+~~~
+{}{img_left}{jjang.png}{alt text}{100px}{px}
+Jungin Jang | 장정인\n
+M.S., IT Engineering, Sookmyung Women's Univeristy, 2023\n
+B.S., IT Engineering, Sookmyung Women's Univeristy, 2021\n
+mulkkog@dgist.ac.kr\n
+\n
+Research - Video super resolution\n
+~~~
+\n
+~~~
+{}{img_left}{bhlee.jpg}{alt text}{100px}{px}
+Byeonghun Lee | 이병훈\n
+B.S., School of Transdisciplinary Studies, DGIST, 2022\n
+byeonghun_lee@korea.ac.kr\n
+\n
+Research - Structure from motion, Neural Rendering\n 
+~~~
+
+
+
+= M.S. Candidates 
+
+#~~~
+#{}{img_left}{mskim.jpg}{alt text}{100px}{px}
+#Minsu Kim | 김민수\n
+#B.S., Dept. of Electrical Engineering, Pusan National University, 2021\n
+#axin.kim@dgist.ac.kr\n
+#\n
+#Research - Image warping, Image Stitching\n
+#~~~
+#\n
+~~~
+{}{img_left}{wookyoung.jpeg}{alt text}{100px}{px}
+Woo Kyoung Han | 한우경 (at DGIST)\n
+B.S., School of Electronic Engineering, Soongsil University, 2022\n
+cjss7894@dgist.ac.kr\n
+\n
+Research - Dequantization, Denoising\n 
+~~~
+\n
+~~~
+{}{img_left}{egkang.jpg}{alt text}{100px}{px}
+Eunggu Kang | 강응구 (at DGIST)\n
+LG Innotek | LG 이노텍\n
+eunggukang@dgist.ac.kr\n
+\n
+Research -  SR, High Dynamic Range(HDR) imaging\n 
+~~~
+\n
+~~~
+{}{img_left}{GLee.jpg}{alt text}{100px}{px}
+Gyeongheon Lee | 이경헌\n
+B.S., School of Transdisciplinary Studies, DGIST, 2023\n
+gyeong.lee@dgist.ac.kr\n
+\n
+Research -  Image Compression\n 
+~~~
+\n
+~~~
+{}{img_left}{YLee.jpg}{alt text}{100px}{px}
+Yongjun Lee | 이용준\n
+B.S., School of Transdisciplinary Studies, DGIST, 2023\n
+lyj9805@korea.ac.kr\n
+\n
+Research -  Signal Representation\n 
+~~~
+\n
+~~~
+{}{img_left}{jsong.png}{alt text}{100px}{px}
+Jaewon Song | 송재원\n
+B.S., Dept. of Computer Science and Engineering, Konkuk University, 2023\n
+jays@dgist.ac.kr\n
+\n
+Research -  HDR, Network pruning\n 
+~~~
+#\n
+#~~~
+#{}{img_left}{mson.png}{alt text}{100px}{px}
+#Minseo Son | 손민서\n
+#B.S., School of Computer Science and Engineering, Jeonbuk National University, 2023\n
+#orioncra@dgist.ac.kr\n
+#\n
+#Research -  Image Compression, Neural Rendering\n 
+#~~~
+
+= Alumni 
+== M.S.
+~~~
+{}{img_left}{mskim.jpg}{alt text}{100px}{px}
+(2021 Sep. - 2023 June)\n
+Minsu Kim | 김민수\n
+minshu.kim26@gmail.com\n
+Naver LABS, Intern
+~~~
+
+== Researcher
+- (2021 Dec. - 2023 Feb.) Byeonghyun Pak | 박병현 |
+byeonghyun.pak@gmail.com\n
+ADD (Agency for Defense Development)\n
+
+- (2021 June - 2022 June) Jaewon Lee | 이재원 |
+#[https://www.linkedin.com/in/jaewonlee-dg homepage]\n 
+ljw3136@dgist.ac.kr\n
+

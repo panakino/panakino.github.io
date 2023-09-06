@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{index.html}
+= Image Processing Algorithm (IPA) Laboratory @ EE, Korea University 
+
+~~~
+{}{img_left}{ipa_thumbnail2.png}{alt text}{350px}{px}
+
+고려대학교 영상처리알고리즘 연구실에 오신것을 환영합니다.\n
+We are a research group developing neural networks for image processing.\n
+IPA was founded 01SEP2023 at School of Electrical Engineering, Korea University.\n
+#IPL was founded 16FEB2021 at Dept. of Electrical Engineering and Computer Science, DGIST.\n
+\n
+Keywords : deep learning, AI, neural networks, signal/image processing, inverse problem
+~~~
+
+
+== Notices 
+- [https://calendar.google.com/calendar/embed?src=kyonghwan.jin%40gmail.com&ctz=Asia%2FSeoul Busy/Free-Calendar]
+#- [https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FSeoul&mode=AGENDA&src=a3lvbmdod2FuLmppbkBnbWFpbC5jb20&color=%23039BE5 Busy/Free-Calendar]
+- 석사과정 | 박사과정 대학원생 모집> [open.html Opening]
+#-  석사과정 | 박사과정 대학원생 모집>
+#[https://ai-dgist.github.io/ DGIST 인공지능전공] 
+
+== News
+- \[2023 AUG 16\] 2 papers have been accepted to {{<font color=red size=+0.5><b>}} WACV 2024! {{</b></font>}}  > [pub.html Link]
+-- REwarp, \[[https://arxiv.org/pdf/2309.01406.pdf PDF], [https://github.com/minshu-kim/REwarp {{<font color=red size=+0.5>}}Code(comingsoon){{</font>}}]\]
+-- NIS, \[[https://arxiv.org/pdf/2309.01409.pdf PDF], [https://github.com/minshu-kim/NIS {{<font color=red size=+0.5>}}Code(comingsoon){{</font>}}]\]
+- \[2023 FEB 28\] 2 papers (one is {{<font color=blue size=+0.5><b>}} Highlight {{</b></font>}}) have been accepted to {{<font color=red size=+0.5><b>}} CVPR 2023! {{</b></font>}}  > [pub.html Link] 
+-- BTC, {{<font color=blue size=+0.5><b>}} Highlight! {{</b></font>}}, \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Pak_B-Spline_Texture_Coefficients_Estimator_for_Screen_Content_Image_Super-Resolution_CVPR_2023_paper.pdf PDF], [https://github.com/ByeongHyunPak/btc {{<font color=red size=+0.5>}}Code{{</font>}}]\]
+-- ABCD \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.pdf PDF],[https://github.com/WooKyoungHan/ABCD {{<font color=red size=+0.5>}} Code{{</font>}}]\]
+- \[2022 JUL 4\] One paper has been accepted to {{<font color=red size=+0.5><b>}} ECCV 2022! {{</b></font>}}  > 
+\[[https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780179.pdf PDF], [https://github.com/jaewon-lee-b/ltew {{<font color=red size=+0.5>}}Code{{</font>}}]\] 
+- \[2022 MAR 2\] One paper has been accepted to {{<font color=red size=+0.5><b>}} CVPR 2022! {{</b></font>}}  > 
+\[[https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Local_Texture_Estimator_for_Implicit_Representation_Function_CVPR_2022_paper.pdf PDF], [https://github.com/jaewon-lee-b/lte {{<font color=red size=+0.5>}}Code{{</font>}}]\]
+
+=== Contact
+Email : kyong_jin@korea.ac.kr\n
+교수방위치 : 공학관 166호\n
+사무실전화 : 02-3290-3259\n
+주소 : 02841 서울특별시 성북구 안암로 145 고려대학교 공과대학 공학관166호
+
+Address:\n
+room 166, Engineering Building, College of Engineering,\n
+145 Anam-ro, Seongbuk-gu, Seoul, 02841, Korea\n
+Phone(office) : +82-2-3290-3259
+#E3 room 512, 333, Techno Jungang-daero, Hyeonpung-eup, Dalseong-gun, Daegu, 42988, Korea\n
+#42988 대구광역시 달성군 현풍읍 테크노중앙대로 333 E3 512호\n
