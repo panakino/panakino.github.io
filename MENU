@@ -2,8 +2,6 @@
 ## Different options:
 IPA
     Home                [index.html]
-    Members	        [members.html]
-    Alumni	        [alumni.html]
     Research	        [research.html]
     Publication         [pub.html]
     Project             [project.html]
@@ -12,6 +10,10 @@ IPA
     History             [history.html]
     ##Activities         [activities.html]
 
+Members
+    Members	        [members.html]
+    Alumni	        [alumni.html]
+
 Sites
-   EE @ KU              [https://ee.korea.ac.kr/]
-   Github               [https://github.com/panakino]
+    EE @ KU              [https://ee.korea.ac.kr/]
+    Github               [https://github.com/panakino]
