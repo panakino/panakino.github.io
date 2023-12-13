@@ -252,7 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  <img src="kor_emblem.png" alt="KU" width="30">
+  <img src="kor_emblem.png" alt="KU" width="30px" height="px" />&nbsp;
   Image Processing Algorithm Lab. (IPA) <br>
   <a href="https://ee.korea.ac.kr/">School of Electrical Engineering</a>,
   College of Engineering, Korea University <br>
