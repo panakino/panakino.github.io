@@ -20,8 +20,8 @@ Keywords : deep learning, AI, neural networks, signal/image processing, inverse 
 
 == News
 - \[2023 AUG 16\] 2 papers have been accepted to {{<font color=red size=+0.5><b>}} WACV 2024! {{</b></font>}}  > [pub.html Link]
--- REwarp, \[[https://arxiv.org/pdf/2309.01406.pdf PDF], [https://github.com/minshu-kim/REwarp {{<font color=red size=+0.5>}}Code{{</font>}}]\]
--- NIS, \[[https://arxiv.org/pdf/2309.01409.pdf PDF], [https://github.com/minshu-kim/NIS {{<font color=red size=+0.5>}}Code{{</font>}}]\]
+-- REwarp, \[[https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Learning_Residual_Elastic_Warps_for_Image_Stitching_Under_Dirichlet_Boundary_WACV_2024_paper.pdf PDF], [https://github.com/minshu-kim/REwarp {{<font color=red size=+0.5>}}Code{{</font>}}]\]
+-- NIS, \[[https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Implicit_Neural_Image_Stitching_With_Enhanced_and_Blended_Feature_Reconstruction_WACV_2024_paper.pdf PDF], [https://github.com/minshu-kim/NIS {{<font color=red size=+0.5>}}Code{{</font>}}]\]
 - \[2023 FEB 28\] 2 papers (one is {{<font color=blue size=+0.5><b>}} Highlight {{</b></font>}}) have been accepted to {{<font color=red size=+0.5><b>}} CVPR 2023! {{</b></font>}}  > [pub.html Link] 
 -- BTC, {{<font color=blue size=+0.5><b>}} Highlight! {{</b></font>}}, \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Pak_B-Spline_Texture_Coefficients_Estimator_for_Screen_Content_Image_Super-Resolution_CVPR_2023_paper.pdf PDF], [https://github.com/ByeongHyunPak/btc {{<font color=red size=+0.5>}}Code{{</font>}}]\]
 -- ABCD \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.pdf PDF],[https://github.com/WooKyoungHan/ABCD {{<font color=red size=+0.5>}} Code{{</font>}}]\]
