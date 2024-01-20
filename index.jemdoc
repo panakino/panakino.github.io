@@ -19,6 +19,10 @@ Keywords : deep learning, AI, neural networks, signal/image processing, inverse 
 - 석사과정 | 박사과정 대학원생 모집> [open.html Opening]
 
 == News
+- \[2024 JAN 20\] Our paper,"Machine learning-based high-frequency neuronal spike reconstruction from lowfrequency and low-sampling-rate recordings" has been accepted to {{<font color=red size=+0.5><b>}} Nature Communications (IF:16.6)! {{</b></font>}}
+\[[https://www.nature.com/articles/s41467-024-44794-2 PDF]\]
+- \[2023 DEC 28\] Our paper, "FedNN: Federated Learning on concept drift data using weight and adaptive group normalizations," has been accepted to {{<font color=red size=+0.5><b>}} Pattern Recognition (IF:8.0)! {{</b></font>}}   
+\[[https://www.sciencedirect.com/science/article/abs/pii/S0031320323009275 PDF]\]
 - \[2023 AUG 16\] 2 papers have been accepted to {{<font color=red size=+0.5><b>}} WACV 2024! {{</b></font>}}  > [pub.html Link]
 -- REwarp, \[[https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Learning_Residual_Elastic_Warps_for_Image_Stitching_Under_Dirichlet_Boundary_WACV_2024_paper.pdf PDF], [https://github.com/minshu-kim/REwarp {{<font color=red size=+0.5>}}Code{{</font>}}]\]
 -- NIS, \[[https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Implicit_Neural_Image_Stitching_With_Enhanced_and_Blended_Feature_Reconstruction_WACV_2024_paper.pdf PDF], [https://github.com/minshu-kim/NIS {{<font color=red size=+0.5>}}Code{{</font>}}]\]
