@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{prof.html}
+= Professor 
+
+~~~
+{}{img_left}{khjin.jpg}{alt text}{100px}{px}
+Kyong Hwan Jin | 진경환\n
+#[http://www.jinkh.com homepage]\n
+Associate Professor\n
+kyong_jin@korea.ac.kr\n
+[https://scholar.google.com/citations?user=aLYNnyoAAAAJ&hl=en Google Scholar]\n
+#[https://ice.dgist.ac.kr/en/article/1201/ Short Bio(eng)]\n
+[CV_jkh.pdf CV]
+~~~
+
+* Work Experience
+- Associate Professor, Korea University, School of Electrical Engineering, Sep. 2023 - Current
+- Assistant Professor, DGIST, Dept. of Electrical Engineering and Computer Science (EECS), Feb. 2021 - Aug. 2023 
+- Staff Engineer, Samsung Research, Camera T/F - Global AI Center, South Korea, Sep. 2019 - Feb. 2021
+-  Post-doc., EPFL @ [http://bigwww.epfl.ch/ Biomedical Imaging Group] (Prof. Unser), Switzerland, Jun. 2016 - Aug. 2019
+-  Post-doc., KAIST @ [https://bispl.weebly.com/ BISPL] (Prof. Ye), South Korea, Mar. 2015 - May. 2016
+
+* Education
+- Ph.D. , Dept. of Bio & Brain Engineering, KAIST, South Korea, 2008-2015.\n
+Advisor : Jong Chul, Ye
+- B.S.  , Dept. of Bio & Brain Engineering, KAIST, South Korea, 2004-2008.
+
+* Reviewer Service
+- CVPR, ECCV, ICCV, ICLR, ICML, NeurIPS, ACCV, etc.
+- IEEE Trans. Image Proc., Computational Imaging, Signal Processing, etc.
+

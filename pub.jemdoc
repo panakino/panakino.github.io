@@ -3,7 +3,7 @@
 
 == Peer-reviewed
 === 2024
-- Nari Hong, Boil Kim, Jaewon Lee, Han Kyoung Choe, {{<font><b>}}K. H. Jin\*{{</b></font>}}, and Hongki Kang\*,"Machine learning-based high-frequency neuronal spike reconstruction from low-frequency and low-sampling-rate recordings," Nat. Commun. 15, 635 (2024), \[[https://www.nature.com/articles/s41467-024-44794-2 PDF]\]
+- Nari Hong, Boil Kim, Jaewon Lee, Han Kyoung Choe, {{<font><b>}}K. H. Jin\*{{</b></font>}}, and Hongki Kang\*,"Machine learning-based high-frequency neuronal spike reconstruction from low-frequency and low-sampling-rate recordings," Nat. Comm. 15, 635 (2024), \[[https://www.nature.com/articles/s41467-024-44794-2 PDF]\]
 
 - {{<font><b>}}Minsu Kim, Yongjun Lee, Woo Kyoung Han, and K. H. Jin{{</b></font>}}, "Learning Residual Elastic Warps for Image Stitching under Dirichlet Boundary Condition," IEEE/CVF Winter Conference on Applications of Computer Vision ({{<font><b>}}WACV{{</b></font>}}), 2024, \[[https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Learning_Residual_Elastic_Warps_for_Image_Stitching_Under_Dirichlet_Boundary_WACV_2024_paper.pdf PDF], [https://github.com/minshu-kim/REwarp {{<font color=red size=+0.5>}}Code{{</font>}}]\]
 
@@ -13,7 +13,7 @@
 === 2023 
 - Myeongkyun Kang, Soopil Kim, {{<font><b>}} K. H. Jin{{</b></font>}}, Ehsan Adeli, Kilian M Pohl, and Sang Hyun Park , “FedNN: Federated Learning on concept drift data using weight and adaptive group normalizations,” Pattern Recognition, Vol. 149, 2023 \[[https://www.sciencedirect.com/science/article/abs/pii/S0031320323009275 PDF]\], (IF:8.0)
 
-- M. Kang, P. Chikontwe, S. Kim, {{<font><b>}}K. H. Jin{{</b></font>}}, E. Adeli, K. M. Pohl, and Sang Hyun Park, “One-shot Federated Learning on Medical Data using Knowledge Distillation with Image Synthesis and Client Model Adaptation,” Medical Image Computing and Computer Assisted Interventions ({{<font><b>}}MICCAI{{</b></font>}}), 2023, {{<font color=orange size=+0.5><b>}} Accepted {{</b></font>}}
+- M. Kang, P. Chikontwe, S. Kim, {{<font><b>}}K. H. Jin{{</b></font>}}, E. Adeli, K. M. Pohl, and Sang Hyun Park, “One-shot Federated Learning on Medical Data using Knowledge Distillation with Image Synthesis and Client Model Adaptation,” Medical Image Computing and Computer Assisted Interventions ({{<font><b>}}MICCAI{{</b></font>}}), 2023, #{{<font color=orange size=+0.5><b>}} Accepted {{</b></font>}}
 
 - {{<font><b>}}Woo Kyoung Han, Byeonghun Lee{{</b></font>}}, Sang Hyun Park, and {{<font><b>}}K. H. Jin{{</b></font>}}, "ABCD : Arbitrary Bitwise Coefficient for De-quantization," IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2023, \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.pdf  PDF],[https://github.com/WooKyoungHan/ABCD {{<font color=red size=+0.5>}} Code{{</font>}}], [ABCD_poster.pdf Poster]\] 
 
