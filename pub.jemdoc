@@ -3,6 +3,10 @@
 
 == Peer-reviewed
 === 2024
+- Minsu Kim, Giseop Kim, {{<font><b>}}K. H. Jin{{</b></font>}}, and Sunwook Choi, ``BroadBEV: Collaborative LiDAR-
+camera Fusion for Broad-sighted Bird’s Eye View Map Construction,” IEEE International
+Conference on Robotics and Automation (ICRA), 2024, Accepted.
+
 - Nari Hong, Boil Kim, Jaewon Lee, Han Kyoung Choe, {{<font><b>}}K. H. Jin\*{{</b></font>}}, and Hongki Kang\*,"Machine learning-based high-frequency neuronal spike reconstruction from low-frequency and low-sampling-rate recordings," Nat. Comm. 15, 635 (2024), \[[https://www.nature.com/articles/s41467-024-44794-2 PDF]\]
 
 - {{<font><b>}}Minsu Kim, Yongjun Lee, Woo Kyoung Han, and K. H. Jin{{</b></font>}}, "Learning Residual Elastic Warps for Image Stitching under Dirichlet Boundary Condition," IEEE/CVF Winter Conference on Applications of Computer Vision ({{<font><b>}}WACV{{</b></font>}}), 2024, \[[https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Learning_Residual_Elastic_Warps_for_Image_Stitching_Under_Dirichlet_Boundary_WACV_2024_paper.pdf PDF], [https://github.com/minshu-kim/REwarp {{<font color=red size=+0.5>}}Code{{</font>}}]\]
