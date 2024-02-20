@@ -8,7 +8,7 @@ M.S., Dept. of Electrical Engineering and Computer Science(EECS), DGIST, 2023\n
 B.S., School of Transdisciplinary Studies, DGIST, 2021\n
 sunkim0062@korea.ac.kr\n
 \n
-Research - Multiframe denoising\n
+Research - Multiframe denoising, Generative model\n
 ~~~
 #\n
 #~~~
@@ -27,7 +27,7 @@ M.S., IT Engineering, Sookmyung Women's Univeristy, 2023\n
 B.S., IT Engineering, Sookmyung Women's Univeristy, 2021\n
 mulkkog@korea.ac.kr\n
 \n
-Research - Video super resolution\n
+Research - Video super resolution, optical flow\n
 ~~~
 \n
 ~~~
@@ -36,9 +36,19 @@ Byeonghun Lee | 이병훈\n
 B.S., School of Transdisciplinary Studies, DGIST, 2022\n
 byeonghun_lee@korea.ac.kr\n
 \n
-Research - Structure from motion, Neural Rendering\n 
+Research - Structure from motion\n 
 ~~~
-
+\n
+~~~
+{}{img_left}{wookyoung.jpeg}{alt text}{100px}{px}
+Woo Kyoung Han | 한우경\n
+M.S., Dept. of Electrical Engineering and Computer Science(EECS), DGIST, 2024\n
+B.S., School of Electronic Engineering, Soongsil University, 2022\n
+cjss7894@dgist.ac.kr\n
+\n
+Research - Dequantization, Denoising\n 
+~~~
+\n
 
 
 = M.S. Candidates 
@@ -53,21 +63,12 @@ Research - Structure from motion, Neural Rendering\n
 #~~~
 #\n
 ~~~
-{}{img_left}{wookyoung.jpeg}{alt text}{100px}{px}
-Woo Kyoung Han | 한우경 (at DGIST)\n
-B.S., School of Electronic Engineering, Soongsil University, 2022\n
-cjss7894@dgist.ac.kr\n
-\n
-Research - Dequantization, Denoising\n 
-~~~
-\n
-~~~
 {}{img_left}{egkang.jpg}{alt text}{100px}{px}
 Eunggu Kang | 강응구 (at DGIST)\n
 LG Innotek | LG 이노텍\n
 eunggukang@dgist.ac.kr\n
 \n
-Research -  SR, High Dynamic Range(HDR) imaging\n 
+Research -  Optical flow, Burst imaging\n 
 ~~~
 \n
 ~~~
@@ -85,7 +86,7 @@ Yongjun Lee | 이용준\n
 B.S., School of Transdisciplinary Studies, DGIST, 2023\n
 lyj9805@korea.ac.kr\n
 \n
-Research -  Signal Representation\n 
+Research -  3D Representation\n 
 ~~~
 \n
 ~~~
@@ -94,7 +95,7 @@ Jaewon Song | 송재원\n
 B.S., Dept. of Computer Science and Engineering, Konkuk University, 2023\n
 jays@korea.ac.kr\n
 \n
-Research -  HDR, Network pruning\n 
+Research -  Hyper spectral imaging, Codec\n 
 ~~~
 #\n
 #~~~
@@ -105,3 +106,19 @@ Research -  HDR, Network pruning\n
 #\n
 #Research -  Image Compression, Neural Rendering\n 
 #~~~
+\n
+~~~
+{}{img_left}{hyeoncho.jpg}{alt text}{100px}{px}
+Hyunmin Cho | 조현민\n
+B.S., Dept. of Software, Gachon University, 2024\n
+cho.hyun@icloud.com\n
+\n
+Research -  Associative Learning, Image representation\n 
+~~~
+
+
+= Interns 
+김푸름(24.JAN\~), greenx9@naver.com\n
+김지은(24.JAN\~), kimjeeeun98@korea.ac.kr\n
+김지원(24.JAN\~), zonnyg1@ajou.ac.kr\n
+이지현(24.JAN\~), jnl901@naver.com\n
