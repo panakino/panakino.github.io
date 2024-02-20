@@ -10,15 +10,6 @@ sunkim0062@korea.ac.kr\n
 \n
 Research - Multiframe denoising, Generative model\n
 ~~~
-#\n
-#~~~
-#{}{img_left}{gschoi.jpg}{alt text}{100px}{px}
-#Gisoon Choi | 최기순\n
-#B.S., School of Transdisciplinary Studies, DGIST, 2021\n
-#choigisoon@dgist.ac.kr\n
-#\n
-#Research - Tactile signal processing\n
-#~~~
 \n
 ~~~
 {}{img_left}{jjang.png}{alt text}{100px}{px}
@@ -49,19 +40,19 @@ cjss7894@dgist.ac.kr\n
 Research - Dequantization, Denoising\n 
 ~~~
 \n
+#\n
+#~~~
+#{}{img_left}{gschoi.jpg}{alt text}{100px}{px}
+#Gisoon Choi | 최기순\n
+#B.S., School of Transdisciplinary Studies, DGIST, 2021\n
+#choigisoon@dgist.ac.kr\n
+#\n
+#Research - Tactile signal processing\n
+#~~~
 
 
 = M.S. Candidates 
 
-#~~~
-#{}{img_left}{mskim.jpg}{alt text}{100px}{px}
-#Minsu Kim | 김민수\n
-#B.S., Dept. of Electrical Engineering, Pusan National University, 2021\n
-#axin.kim@dgist.ac.kr\n
-#\n
-#Research - Image warping, Image Stitching\n
-#~~~
-#\n
 ~~~
 {}{img_left}{egkang.jpg}{alt text}{100px}{px}
 Eunggu Kang | 강응구 (at DGIST)\n
@@ -97,15 +88,6 @@ jays@korea.ac.kr\n
 \n
 Research -  Hyper spectral imaging, Codec\n 
 ~~~
-#\n
-#~~~
-#{}{img_left}{mson.png}{alt text}{100px}{px}
-#Minseo Son | 손민서\n
-#B.S., School of Computer Science and Engineering, Jeonbuk National University, 2023\n
-#orioncra@dgist.ac.kr\n
-#\n
-#Research -  Image Compression, Neural Rendering\n 
-#~~~
 \n
 ~~~
 {}{img_left}{hyeoncho.jpg}{alt text}{100px}{px}
@@ -115,7 +97,34 @@ cho.hyun@icloud.com\n
 \n
 Research -  Associative Learning, Image representation\n 
 ~~~
+\n
+~~~
+{}{img_left}{changhyeon.png}{alt text}{100px}{px}
+Changhyeon Song | 송창현\n
+Senior Researcher, SK hynix, Jan.2012 \~ Feb.2024\n
+changhyeon.song@sk.com\n
+\n
+Research -  Super resolution, Denoising, Image classification\n 
+~~~
 
+#\n
+#~~~
+#{}{img_left}{mson.png}{alt text}{100px}{px}
+#Minseo Son | 손민서\n
+#B.S., School of Computer Science and Engineering, Jeonbuk National University, 2023\n
+#orioncra@dgist.ac.kr\n
+#\n
+#Research -  Image Compression, Neural Rendering\n 
+#~~~
+#~~~
+#{}{img_left}{mskim.jpg}{alt text}{100px}{px}
+#Minsu Kim | 김민수\n
+#B.S., Dept. of Electrical Engineering, Pusan National University, 2021\n
+#axin.kim@dgist.ac.kr\n
+#\n
+#Research - Image warping, Image Stitching\n
+#~~~
+#\n
 
 = Interns 
 김푸름(24.JAN\~), greenx9@naver.com\n
