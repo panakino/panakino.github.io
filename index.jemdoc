@@ -15,7 +15,6 @@ Keywords : deep learning, AI, neural networks, signal/image processing, inverse 
 
 == Notices 
 - [https://calendar.google.com/calendar/embed?src=kyonghwan.jin%40gmail.com&ctz=Asia%2FSeoul Busy/Free-Calendar]
-#- [https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Asia%2FSeoul&mode=AGENDA&src=a3lvbmdod2FuLmppbkBnbWFpbC5jb20&color=%23039BE5 Busy/Free-Calendar]
 - 석사과정 | 박사과정 대학원생 모집> [open.html Opening]
 
 == News
@@ -25,18 +24,9 @@ Keywords : deep learning, AI, neural networks, signal/image processing, inverse 
 \[[https://arxiv.org/pdf/2309.11119.pdf PDF]\]
 - \[2024 JAN 20\] Our paper,"Machine learning-based high-frequency neuronal spike reconstruction from lowfrequency and low-sampling-rate recordings" has been accepted to {{<font color=red size=+0.5><b>}} Nature Communications (IF:16.6)! {{</b></font>}}
 \[[https://www.nature.com/articles/s41467-024-44794-2 PDF]\]
-- \[2023 DEC 28\] Our paper, "FedNN: Federated Learning on concept drift data using weight and adaptive group normalizations," has been accepted to {{<font color=red size=+0.5><b>}} Pattern Recognition (IF:8.0)! {{</b></font>}}   
-\[[https://www.sciencedirect.com/science/article/abs/pii/S0031320323009275 PDF]\]
-- \[2023 AUG 16\] 2 papers have been accepted to {{<font color=red size=+0.5><b>}} WACV 2024! {{</b></font>}}  > [pub.html Link]
+- \[2024 JAN 03\] 2 papers have been accepted to {{<font color=red size=+0.5><b>}} WACV 2024! {{</b></font>}}  > [pub.html Link]
 -- REwarp, \[[https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Learning_Residual_Elastic_Warps_for_Image_Stitching_Under_Dirichlet_Boundary_WACV_2024_paper.pdf PDF], [https://github.com/minshu-kim/REwarp {{<font color=red size=+0.5>}}Code{{</font>}}]\]
 -- NIS, \[[https://openaccess.thecvf.com/content/WACV2024/papers/Kim_Implicit_Neural_Image_Stitching_With_Enhanced_and_Blended_Feature_Reconstruction_WACV_2024_paper.pdf PDF], [https://github.com/minshu-kim/NIS {{<font color=red size=+0.5>}}Code{{</font>}}]\]
-- \[2023 FEB 28\] 2 papers (one is {{<font color=blue size=+0.5><b>}} Highlight {{</b></font>}}) have been accepted to {{<font color=red size=+0.5><b>}} CVPR 2023! {{</b></font>}}  > [pub.html Link] 
--- BTC, {{<font color=blue size=+0.5><b>}} Highlight! {{</b></font>}}, \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Pak_B-Spline_Texture_Coefficients_Estimator_for_Screen_Content_Image_Super-Resolution_CVPR_2023_paper.pdf PDF], [https://github.com/ByeongHyunPak/btc {{<font color=red size=+0.5>}}Code{{</font>}}]\]
--- ABCD \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.pdf PDF],[https://github.com/WooKyoungHan/ABCD {{<font color=red size=+0.5>}} Code{{</font>}}]\]
-- \[2022 JUL 4\] One paper has been accepted to {{<font color=red size=+0.5><b>}} ECCV 2022! {{</b></font>}}  > 
-\[[https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780179.pdf PDF], [https://github.com/jaewon-lee-b/ltew {{<font color=red size=+0.5>}}Code{{</font>}}]\] 
-- \[2022 MAR 2\] One paper has been accepted to {{<font color=red size=+0.5><b>}} CVPR 2022! {{</b></font>}}  > 
-\[[https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Local_Texture_Estimator_for_Implicit_Representation_Function_CVPR_2022_paper.pdf PDF], [https://github.com/jaewon-lee-b/lte {{<font color=red size=+0.5>}}Code{{</font>}}]\]
 
 === Contact
 Email : kyong_jin@korea.ac.kr\n

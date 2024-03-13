@@ -1,9 +1,20 @@
 # jemdoc: menu{MENU}{history.html}
 = History 
 
-== 2022
+== 2023
+- \[2023 DEC 28\] Our paper, "FedNN: Federated Learning on concept drift data using weight and adaptive group normalizations," has been accepted to {{<font color=red size=+0.5><b>}} Pattern Recognition (IF:8.0)! {{</b></font>}}
+\[[https://www.sciencedirect.com/science/article/abs/pii/S0031320323009275 PDF]\]
+- \[2023 FEB 28\] 2 papers (one is {{<font color=blue size=+0.5><b>}} Highlight {{</b></font>}}) have been accepted to {{<font color=red size=+0.5><b>}} CVPR 2023! {{</b></font>}}  > [pub.html Link]
+-- BTC, {{<font color=blue size=+0.5><b>}} Highlight! {{</b></font>}}, \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Pak_B-Spline_Texture_Coefficients_Estimator_for_Screen_Content_Image_Super-Resolution_CVPR_2023_paper.pdf PDF], [https://github.com/ByeongHyunPak/btc {{<font color=red size=+0.5>}}Code{{</font>}}]\]
+-- ABCD \[[https://openaccess.thecvf.com/content/CVPR2023/papers/Han_ABCD_Arbitrary_Bitwise_Coefficient_for_De-Quantization_CVPR_2023_paper.pdf PDF],[https://github.com/WooKyoungHan/ABCD {{<font color=red size=+0.5>}} Code{{</font>}}]\]
 - \[2023 FEB 27\] Jungin Jang(장정인), Gyeongheon Lee(이경헌), Yongjun Lee(이용준), Jaewon Song(송재원), and  Minseo Son(손민서)  joined our group!
+
+== 2022
 - \[2022 AUG 29\] Eunggu Kang(강응구) joined our group!
+- \[2022 JUL 4\] One paper has been accepted to {{<font color=red size=+0.5><b>}} ECCV 2022! {{</b></font>}}  >
+\[[https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780179.pdf PDF], [https://github.com/jaewon-lee-b/ltew {{<font color=red size=+0.5>}}Code{{</font>}}]\]
+- \[2022 MAR 2\] One paper has been accepted to {{<font color=red size=+0.5><b>}} CVPR 2022! {{</b></font>}}  >
+\[[https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Local_Texture_Estimator_for_Implicit_Representation_Function_CVPR_2022_paper.pdf PDF], [https://github.com/jaewon-lee-b/lte {{<font color=red size=+0.5>}}Code{{</font>}}]\]
 - \[2022 FEB 28\] Woogyong Han(한우경) and Byeonghun Lee(이병훈) joined our group!
 - \[2022 JAN 01\] Gisoon Choi(최기순) joined our group!
 
