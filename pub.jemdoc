@@ -3,6 +3,10 @@
 
 == Peer-reviewed
 === 2024
+- {{<font><b>}}EungGu Kang, Byeonghun Lee{{</b></font>}}, Sunghoon Im\*, and {{<font><b>}}K. H. Jin\*{{</b></font>}}, ``BurstM: Deep Burst Multi-scale SR using Fourier Space with Optical Flow,” European Conference on Computer Vision ({{<font><b>}}ECCV{{</b></font>}}), 2024, Accepted.
+
+- Donghoon Ahn\*, Hyoungwon Cho\*, Jaewon Min, Wooseok Jang, Jungwoo Kim, {{<font><b>}}SeonHwa Kim{{</b></font>}}, Hyun Hee Park, {{<font><b>}}K. H. Jin\*{{</b></font>}}, and Seungryong Kim\*, ``Self-Rectifying Diffusion Sampling with Purterbed-Attention Guidance,” European Conference on Computer Vision ({{<font><b>}}ECCV{{</b></font>}}), 2024, Accepted. \[[https://ku-cvlab.github.io/Perturbed-Attention-Guidance/ Project]\]
+
 - {{<font><b>}}Woo Kyoung Han{{</b></font>}}, Sunghoon Im, Jaedeok Kim\*, and {{<font><b>}}K. H. Jin\*{{</b></font>}}, ``JDEC: JPEG Decoding via Enhanced Continuous Cosine Coefficients,” IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2024, Accepted. \[[https://wookyounghan.github.io/JDEC/ Project]\]
 
 - Minsu Kim, Giseop Kim, {{<font><b>}}K. H. Jin{{</b></font>}}, and Sunwook Choi, ``BroadBEV: Collaborative LiDAR-
