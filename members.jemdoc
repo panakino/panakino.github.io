@@ -2,7 +2,7 @@
 = Ph.D. Candidates 
 
 ~~~
-{}{img_left}{skim.png}{alt text}{100px}{px}
+{}{img_left}{imgs/skim.png}{alt text}{100px}{px}
 Seonhwa Kim | 김선화 \n
 sunkim0062@korea.ac.kr\n
 \n
@@ -13,7 +13,7 @@ Research - Multiframe denoising, Generative model\n
 ~~~
 \n
 ~~~
-{}{img_left}{jjang.png}{alt text}{100px}{px}
+{}{img_left}{imgs/jjang.png}{alt text}{100px}{px}
 Jungin Jang | 장정인\n
 mulkkog@korea.ac.kr\n
 \n
@@ -24,7 +24,7 @@ Research - Video super resolution, optical flow\n
 ~~~
 \n
 ~~~
-{}{img_left}{bhlee.jpg}{alt text}{100px}{px}
+{}{img_left}{imgs/bhlee.jpg}{alt text}{100px}{px}
 Byeonghun Lee | 이병훈\n 
 byeonghun_lee@korea.ac.kr\n
 \n
@@ -34,7 +34,7 @@ Research - Structure from motion, Image warping\n
 ~~~
 \n
 ~~~
-{}{img_left}{wookyoung.jpeg}{alt text}{100px}{px}
+{}{img_left}{imgs/wookyoung.jpeg}{alt text}{100px}{px}
 Woo Kyoung Han | 한우경\n
 wookyoung0727@korea.ac.kr\n
 \n
@@ -58,7 +58,7 @@ Research - Dequantization, Denoising\n
 = M.S. Candidates 
 
 ~~~
-{}{img_left}{egkang.jpg}{alt text}{100px}{px}
+{}{img_left}{imgs/egkang.jpg}{alt text}{100px}{px}
 Eunggu Kang | 강응구\n
 eunggukang@dgist.ac.kr \n
 \n
@@ -68,7 +68,7 @@ Research -  Optical flow, Burst imaging\n
 ~~~
 \n
 ~~~
-{}{img_left}{GLee.jpg}{alt text}{100px}{px}
+{}{img_left}{imgs/GLee.jpg}{alt text}{100px}{px}
 Gyeongheon Lee | 이경헌\n 
 gyeong_lee@korea.ac.kr\n
 \n
@@ -78,7 +78,7 @@ Research -  Image Compression\n
 ~~~
 \n
 ~~~
-{}{img_left}{YLee.jpg}{alt text}{100px}{px}
+{}{img_left}{imgs/YLee.jpg}{alt text}{100px}{px}
 Yongjun Lee | 이용준\n
 lyj9805@korea.ac.kr\n
 \n
@@ -88,7 +88,7 @@ Research -  3D Representation, Depth estimation\n
 ~~~
 \n
 ~~~
-{}{img_left}{jsong.png}{alt text}{100px}{px}
+{}{img_left}{imgs/jsong.png}{alt text}{100px}{px}
 Jaewon Song | 송재원\n
 jays@korea.ac.kr\n
 \n
@@ -98,7 +98,7 @@ Research -  Hyper spectral imaging, Codec\n
 ~~~
 \n
 ~~~
-{}{img_left}{hyeoncho.jpg}{alt text}{100px}{px}
+{}{img_left}{imgs/hyeoncho.jpg}{alt text}{100px}{px}
 Hyunmin Cho | 조현민\n
 hyun_cho@korea.ac.kr\n
 \n
@@ -108,7 +108,7 @@ Research -  Associative Learning, Image representation\n
 ~~~
 \n
 ~~~
-{}{img_left}{changhyeon.png}{alt text}{100px}{px}
+{}{img_left}{imgs/changhyeon.png}{alt text}{100px}{px}
 Changhyeon Song | 송창현\n
 changhyeon_song@korea.ac.kr\n
 \n
@@ -120,7 +120,7 @@ Research -  Super resolution, Denoising, Image classification\n
 ~~~
 \n
 ~~~
-{}{img_left}{Sangyoun.jpg}{alt text}{100px}{px}
+{}{img_left}{imgs/Sangyoun.jpg}{alt text}{100px}{px}
 Sangyoun Kwon | 권상윤\n
 syun_kwon@korea.ac.kr\n
 \n

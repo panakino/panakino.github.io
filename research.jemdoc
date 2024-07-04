@@ -10,7 +10,7 @@
 #~~~
 === Single image super resolution with implicit neural representation 
 ~~~
-{}{img_left}{LTE_res.png}{alt text}{1200px}
+{}{img_left}{imgs/LTE_res.png}{alt text}{1200px}
 ~~~
 
 ~~~
@@ -21,14 +21,14 @@ Recent works with an implicit neural function shed light on representing images 
 
 === Image warping with implicit neural representation 
 ~~~
-{}{img_left}{LTEW_res.png}{alt text}{1200px}
+{}{img_left}{imgs/LTEW_res.png}{alt text}{1200px}
 ~~~
 
 ~~~
 We propose a local texture estimator for image warping (LTEW) followed by an implicit neural representation to deform images into continuous shapes. Local textures estimated from a deep super-resolution (SR) backbone are multiplied by locally-varying Jacobian matrices of a coordinate transformation to predict Fourier responses of a warped image. Our LTEW-based neural function outperforms existing warping methods for asymmetricscale SR and homography transform. Furthermore, our algorithm well generalizes arbitrary coordinate transformations, such as homography transform with a large magnification factor and equirectangular projection (ERP) perspective transform, which are not provided in training.
 
 \n\n
-/figure from [LTEW.pdf LTEW_paper(ECCV2022)], ERP to Perspective view using LTEW/
+/figure from LTEW_paper(ECCV2022), ERP to Perspective view using LTEW
 ~~~
 
 #=== Neural network toward inverse problems in image processing 
@@ -42,7 +42,7 @@ We propose a local texture estimator for image warping (LTEW) followed by an imp
 == Computational Photography 
 
 ~~~
-{}{img_left}{hdr.png}{alt text}{200px}
+{}{img_left}{imgs/hdr.png}{alt text}{200px}
 ~~~
 
 ~~~
@@ -71,7 +71,7 @@ ABCD : arbitrary bitwise coefficients for de-quantization (CVPR 23)
 
 
 ~~~
-{}{img_left}{time-dip.png}{alt text}{400px}
+{}{img_left}{imgs/time-dip.png}{alt text}{400px}
 ~~~
 
 ~~
