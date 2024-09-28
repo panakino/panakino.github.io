@@ -3,7 +3,7 @@
 
 == Peer-reviewed
 === 2024
-- {{<font><b>}}EungGu Kang, Byeonghun Lee{{</b></font>}}, Sunghoon Im\*, and {{<font><b>}}K. H. Jin\*{{</b></font>}}, ``BurstM: Deep Burst Multi-scale SR using Fourier Space with Optical Flow,” European Conference on Computer Vision ({{<font><b>}}ECCV{{</b></font>}}), 2024, Accepted.\[[https://github.com/Egkang-Luis/burstm {{<font color=red size=+0.5>}} Code{{</font>}}]\] 
+- {{<font><b>}}EungGu Kang, Byeonghun Lee{{</b></font>}}, Sunghoon Im\*, and {{<font><b>}}K. H. Jin\*{{</b></font>}}, ``BurstM: Deep Burst Multi-scale SR using Fourier Space with Optical Flow,” European Conference on Computer Vision ({{<font><b>}}ECCV{{</b></font>}}), 2024, Accepted.\[[https://arxiv.org/pdf/2409.15384  PDF], [https://github.com/Egkang-Luis/burstm {{<font color=red size=+0.5>}} Code{{</font>}}]\] 
 
 - Donghoon Ahn\*, Hyoungwon Cho\*, Jaewon Min, Wooseok Jang, Jungwoo Kim, {{<font><b>}}SeonHwa Kim{{</b></font>}}, Hyun Hee Park, {{<font><b>}}K. H. Jin\*{{</b></font>}}, and Seungryong Kim\*, ``Self-Rectifying Diffusion Sampling with Purterbed-Attention Guidance,” European Conference on Computer Vision ({{<font><b>}}ECCV{{</b></font>}}), 2024, Accepted. \[[https://ku-cvlab.github.io/Perturbed-Attention-Guidance/ Project]\]
 
