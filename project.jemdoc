@@ -8,7 +8,6 @@
 Period(YYYYMMDD) | Title | Source | Internal ||
 2024.06.01-2025.05.31 | 사용자 선호 영상 기반 화질 기술 개발| Samsung Research |[https://github.com/users/panakino/projects/3 Link] ||
 2024.04.01-2029.03.31 | 함축 표현 인공지능망을 활용한 범용 연속 신호처리| 연구재단-우수신진 | - ||
-2023.10.01-2024.09.30 | Multiview 카메라를 이용한 3차원 형상복원 및 이상탐지 모델 개발| MS 오토텍| [https://github.com/users/panakino/projects/4 Link] ||
 2022.04.01-2026.12.31 | 경찰관 맞춤형 건강관리 서비스를 위한 지능형 빅데이터 통합플랫폼 개발| 경찰청|- ||
 2021.07.01-2025.12.31 | 인공지능 혁신 허브 연구 개발| 과학기술정보통신부|-
 ~~~
@@ -18,6 +17,7 @@ Period(YYYYMMDD) | Title | Source | Internal ||
 ~~~
 {}{table}{TABLENAME}
 Period(YYYYMMDD) | Title | Source ||
+2023.10.01-2024.09.30 | Multiview 카메라를 이용한 3차원 형상복원 및 이상탐지 모델 개발| MS 오토텍 ||
 2021.06.01-2024.02.28 | 인지적 역촉각 복제 시스템 연구실 | 연구재단 기초연구실||
 2023.01.01-2023.12.31 | (과기원공동연구프로젝트)뇌질환 극복을 위한 최소침습 인공지능 전자뇌 개발| 과학기술정보통신부 ||
 2022.06.01-2023.12.31 | 다기관 뇌 영상데이터 분석을 위한 연합 학습 인공지능 개발 | 과학기술정보통신부||
@@ -35,6 +35,7 @@ Period(YYYYMMDD) | Title | Source ||
 {}{img_left}{imgs/logo_SR.png}{alt text}{150px}{px}
 \[2022 MAR \~ 2022 DEC\] [http://research.samsung.com/ Samsung Research] : advice on deep learning models (Visual Perception Team) \n
 \[2023 OCT \~ 2024 JUL\] [http://research.samsung.com/ Samsung Research] : advice on deep learning models (Visual Perception Team)
+\[2024 NOV \~ 2024 OCT\] [http://research.samsung.com/ Samsung Research] : advice on deep learning models (Visual Perception Team)
 ~~~
 \n
 ~~~
