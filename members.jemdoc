@@ -79,16 +79,16 @@ Research -  3D Representation, Depth estimation\n
 
 = M.S. Candidates 
 
-~~~
-{}{img_left}{imgs/GLee.jpg}{alt text}{100px}{px}
-Gyeongheon Lee | 이경헌\n 
-gyeong_lee@korea.ac.kr\n
-\n
-B.S., School of Transdisciplinary Studies, DGIST, 2023\n
-\n
-Research -  Image Compression\n 
-~~~
-\n
+#~~~
+#{}{img_left}{imgs/GLee.jpg}{alt text}{100px}{px}
+#Gyeongheon Lee | 이경헌\n 
+#gyeong_lee@korea.ac.kr\n
+#\n
+#B.S., School of Transdisciplinary Studies, DGIST, 2023\n
+#\n
+#Research -  Image Compression\n 
+#~~~
+#\n
 ~~~
 {}{img_left}{imgs/jsong.png}{alt text}{100px}{px}
 Jaewon Song | 송재원\n
