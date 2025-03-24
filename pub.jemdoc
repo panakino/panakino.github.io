@@ -4,11 +4,11 @@
 == Peer-reviewed
 === 2025
 - {{<font><b>}}Woo Kyoung Han, Byeonghun Lee, Hyunmin Cho{{</b></font>}}, Sunghoon Im\*, {{<font><b>}}K.H. Jin\*{{</b></font>}}, ``Towards Lossless Implicit Neural Representation via Bit Plane Decomposition,'' 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2025, Accepted
+IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2025, Accepted, \[[https://wookyounghan.github.io/LosslessINR/ Project]\]
 
-- {{<font><b>}}SeonHwa Kim, Jiwon Kim{{</b></font>}}, Soobin Park, Donghoon Ahn, Jiwon Kang, Seungryong Kim\*, {{<font><b>}}K. H. Jin\*{{</b></font>}}, Eunju Cha\*, ``Identity-preserving Distillation Sampling by Fixed-Point Iterator,'' IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2025, Accepted
+- {{<font><b>}}SeonHwa Kim, Jiwon Kim{{</b></font>}}, Soobin Park, Donghoon Ahn, Jiwon Kang, Seungryong Kim\*, {{<font><b>}}K. H. Jin\*{{</b></font>}}, Eunju Cha\*, ``Identity-preserving Distillation Sampling by Fixed-Point Iterator,'' IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2025, Accepted, \[[https://github.com/shhh0620/IDS Code]\]
 
-- Eunjin Kim, Hyeonjin Kim, {{<font><b>}}K. H. Jin{{</b></font>}}, Jaejun Yoo ``BF-STVSR: B-Splines and Fourier---Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution,'' IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2025, Accepted
+- Eunjin Kim, Hyeonjin Kim, {{<font><b>}}K. H. Jin{{</b></font>}}, Jaejun Yoo ``BF-STVSR: B-Splines and Fourier---Best Friends for High Fidelity Spatial-Temporal Video Super-Resolution,'' IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2025, Accepted, \[[https://eunjnnn.github.io/bfstvsr_site/ Project]\]
 
 === 2024
 - Dong-Gu Choi, Jaehyun Lee, Jahyun Koo, {{<font><b>}}Woo Kyoung Han{{</b></font>}}, Dahoon Park, Jaeha Kung, Junghyup Lee, Jong-Hyeok Yoon, ``A 65nm 687.5-TOPS/W Drive Strength-based SRAM Compute-In-Memory Macro with Adaptive Dynamic Range for Edge AI applications,'' IEEE Asian Solid-State Circuits Conference (A-SSCC), 2024.
