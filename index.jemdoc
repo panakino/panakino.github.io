@@ -18,6 +18,12 @@ Keywords : deep learning, AI, neural networks, signal/image processing, inverse 
 - 석사과정 | 박사과정 대학원생 모집> [open.html Opening]
 
 == News
+- \[2025 JUN 26\] {{<font><b>}}4 papers{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} ICCV 2025! {{</b></font>}}  > [pub.html Link]
+- image-based RAG
+- JPEG Neural Operator
+- Dual Recursive Feedback for SDS editing
+- LUT ST w/ interpolation kernel
+
 - \[2025 FEB 27\] {{<font><b>}}3 papers{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} CVPR 2025! {{</b></font>}}  > [pub.html Link]
 -- Lossless INR representation (LINR), \[[https://wookyounghan.github.io/LosslessINR/ Project]\]
 -- Image Editing T2I diffusion with identity-focused fixed-point iterator (IDS), \[[https://shhh0620.github.io/IDS/ Project]\] 
