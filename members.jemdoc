@@ -53,17 +53,17 @@ LG Display | LG 디스플레이\n
 \n
 Research -  Super resolution, Inverse problems\n 
 ~~~
-\n
-~~~
-{}{img_left}{imgs/YLee.jpg}{alt text}{100px}{px}
-Yongjun Lee | 이용준\n
-lyj9805@korea.ac.kr\n
-\n
-M.S., School of Electrical Engineering, Korea Univeresity, 2025\n
-B.S., School of Transdisciplinary Studies, DGIST, 2023\n
-\n
-Research -  3D Representation, Depth estimation\n 
-~~~
+#\n
+#~~~
+#{}{img_left}{imgs/YLee.jpg}{alt text}{100px}{px}
+#Yongjun Lee | 이용준\n
+#lyj9805@korea.ac.kr\n
+#\n
+#M.S., School of Electrical Engineering, Korea Univeresity, 2025\n
+#B.S., School of Transdisciplinary Studies, DGIST, 2023\n
+#\n
+#Research -  3D Representation, Depth estimation\n 
+#~~~
 
 
 #\n
@@ -180,7 +180,9 @@ Research -  Graph Neural Network\n
 #\n
 
 = Interns 
-김형우(25.JAN\~), hwoo070@naver.com\n
+#김형우(25.JAN\~), hwoo070@naver.com\n
+유형준(25.JUL\~), yhj010811@korea.ac.kr\n
+박경성(25.JUL\~), pgs020209@naver.com\n
 정성우(25.June\~), 23sjung@berkeley.edu\n
 #권혁수(25.JAN\~), hs0201@korea.ac.kr\n
 #김지은(24.JAN\~), kimjeeeun98@korea.ac.kr\n
