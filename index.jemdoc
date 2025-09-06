@@ -19,7 +19,7 @@ Keywords : deep learning, AI, neural networks, signal/image processing, inverse 
 
 == News
 - \[2025 SEP 6\] {{<font><b>}}One paper{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} WACV 2026! {{</b></font>}}  > [pub.html Link]
--- High-speed 2D Gaussian Decoder for Image processing
+-- Decoder based on 2D Gaussian Splatting
 
 - \[2025 JUN 26\] {{<font><b>}}4 papers{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} ICCV 2025! {{</b></font>}}  > [pub.html Link]
 -- SR w/ image-based RAG
