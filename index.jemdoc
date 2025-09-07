@@ -18,7 +18,7 @@ Keywords : deep learning, AI, neural networks, signal/image processing, inverse 
 - 석사과정 | 박사과정 대학원생 모집> [open.html Opening]
 
 == News
-- \[2025 SEP 6\] {{<font><b>}}One paper{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} WACV 2026! {{</b></font>}}  > [pub.html Link]
+- \[2025 SEP 6\] {{<font><b>}}One paper{{</b></font>}} has been accepted to {{<font color=red size=+0.5><b>}} WACV 2026! {{</b></font>}}  > [pub.html Link]
 -- Decoder based on 2D Gaussian Splatting
 
 - \[2025 JUN 26\] {{<font><b>}}4 papers{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} ICCV 2025! {{</b></font>}}  > [pub.html Link]
@@ -33,15 +33,6 @@ Keywords : deep learning, AI, neural networks, signal/image processing, inverse 
 -- VideoSR with Fourier \& B-spline basis \[[https://eunjnnn.github.io/bfstvsr_site/ Project]\]
 
 - \[2025 FEB 17\] Prof. Jin will serve as an {{<font size=+0.5><b>}}Area Chair {{</b></font>}}for {{<font size=+0.5><b>}} NeurIPS 2025 {{</b></font>}}.\n 
-- \[2024 DEC 16\] Prof. Jin will serve as an {{<font size=+0.5><b>}}Area Chair {{</b></font>}}for {{<font size=+0.5><b>}} ICML 2025 {{</b></font>}}.\n 
-- \[2024 JUL 01\] {{<font><b>}}2 papers{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} ECCV 2024! {{</b></font>}}  > [pub.html Link]
--- BurstM (Burst Shot SR) \[[https://arxiv.org/pdf/2409.15384  PDF], [https://github.com/Egkang-Luis/burstm {{<font color=red size=+0.5>}} Code{{</font>}}]\] 
--- PAG (perturbed-attention guidance),  \[[https://ku-cvlab.github.io/Perturbed-Attention-Guidance/ Project]\] 
-- \[2024 JUN 24\] Our Lab member, Woo Kyoung Han granted a Ph.D. candidate fellowship from NRF!\n 
--- (2024.SEP-2026.AUG) Integrated Data Compression and Lightweight Network Performance Restoration through Quantum-Enhanced Restoration
-- \[2024 APR 03\] Prof. Jin will serve as an {{<font size=+0.5><b>}}Area Chair {{</b></font>}}for {{<font size=+0.5><b>}} NeurIPS 2024 {{</b></font>}}.\n 
-- \[2024 FEB 27\] {{<b><font>}}One paper{{</b></font>}} has been accepted to {{<font color=red size=+0.5><b>}} CVPR 2024! {{</b></font>}}\n 
--- JDEC : JPEG Decoding via Enhanced Continuous Cosine Coefficients \[[https://openaccess.thecvf.com/content/CVPR2024/papers/Han_JDEC_JPEG_Decoding_via_Enhanced_Continuous_Cosine_Coefficients_CVPR_2024_paper.pdf PDF],[https://github.com/WooKyoungHan/JDEC {{<font color=red size=+0.5>}} Code{{</font>}}],[https://wookyounghan.github.io/JDEC/ Project]\]
 
 === Contact
 Email : kyong_jin@korea.ac.kr\n
