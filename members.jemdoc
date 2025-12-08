@@ -121,30 +121,30 @@ B.S., Dept. of Software, Gachon University, 2024\n
 \n
 Research -  Associative Memory, Image representation\n 
 ~~~
-\n
-~~~
-{}{img_left}{imgs/changhyeon.png}{alt text}{100px}{px}
-Changhyeon Song | 송창현\n
-changhyeon_song@korea.ac.kr\n
-\n
-#Senior Researcher, SK hynix| SK 하이닉스\n
-#Jan.2012 \~ Feb.2024\n
-SK hynix| SK 하이닉스\n
-\n
-Research -  Super resolution, Denoising, Image classification\n 
-~~~
-\n
-~~~
-{}{img_left}{imgs/Sangyoun.jpg}{alt text}{100px}{px}
-Sangyoun Kwon | 권상윤\n
-syun_kwon@korea.ac.kr\n
-\n
-Samsung Electronics | 삼성전자\n
-\n
-Research -  Anomaly detection\n 
-~~~
-\n
-~~~
+#\n
+#~~~
+#{}{img_left}{imgs/changhyeon.png}{alt text}{100px}{px}
+#Changhyeon Song | 송창현\n
+#changhyeon_song@korea.ac.kr\n
+#\n
+##Senior Researcher, SK hynix| SK 하이닉스\n
+##Jan.2012 \~ Feb.2024\n
+#SK hynix| SK 하이닉스\n
+#\n
+#Research -  Super resolution, Denoising, Image classification\n 
+#~~~
+#\n
+#~~~
+#{}{img_left}{imgs/Sangyoun.jpg}{alt text}{100px}{px}
+#Sangyoun Kwon | 권상윤\n
+#syun_kwon@korea.ac.kr\n
+#\n
+#Samsung Electronics | 삼성전자\n
+#\n
+#Research -  Anomaly detection\n 
+#~~~
+#\n
+#~~~
 {}{img_left}{imgs/purem_kim.jpg}{alt text}{100px}{px}
 Pureum Kim | 김푸름\n
 pureum_kim@korea.ac.kr\n
