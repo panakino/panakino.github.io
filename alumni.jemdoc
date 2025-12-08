@@ -10,7 +10,7 @@ eunggukang@gmail.com \n
 \n
 LG Innotek | LG 이노텍(산학)\n
 \n
-Research -  Optical flow, Burst imaging\n
+#Research -  Optical flow, Burst imaging\n
 ~~~
 \n
 ~~~
@@ -27,11 +27,11 @@ Ph.D program in KAIST
 Yongjun Lee | 이용준\n
 (2023 Mar. - 2025 Jul.)\n
 lyj9805@korea.ac.kr\n
-\n
-M.S., School of Electrical Engineering, Korea Univeresity, 2025\n
-B.S., School of Transdisciplinary Studies, DGIST, 2023\n
-\n
-Research -  3D Representation, Depth estimation\n
+#\n
+#M.S., School of Electrical Engineering, Korea Univeresity, 2025\n
+#B.S., School of Transdisciplinary Studies, DGIST, 2023\n
+#\n
+#Research -  3D Representation, Depth estimation\n
 ~~~
 \n
 ~~~
@@ -44,8 +44,8 @@ shaulin@naver.com\n
 #Senior Researcher, SK hynix| SK 하이닉스\n
 #Jan.2012 \~ Feb.2024\n
 SK hynix| SK 하이닉스(산학)\n
-\n
-Research -  Super resolution, Denoising\n
+#\n
+#Research -  Super resolution, Denoising\n
 ~~~
 \n
 ~~~
@@ -57,9 +57,8 @@ intense137@naver.com\n
 \n
 Samsung Electronics | 삼성전자(산학)\n
 \n
-Research -  Anomaly detection\n
+#Research -  Anomaly detection\n
 ~~~
-
 
 
 == Researcher
