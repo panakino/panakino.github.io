@@ -63,6 +63,16 @@ Hanwha Systems  | 한화시스템(산학)\n
 \n
 Research - latency optimization, edge training \n 
 ~~~
+\n
+~~~
+{}{img_left}{imgs/hyeoncho.jpg}{alt text}{100px}{px}
+Hyunmin Cho | 조현민\n
+hyun_cho@korea.ac.kr\n
+\n
+B.S., Dept. of Software, Gachon University, 2024\n
+\n
+Research -  Associative Memory, Diffusion Image Gen.\n 
+~~~
 
 
 
@@ -112,15 +122,15 @@ Research - latency optimization, edge training \n
 #Research -  Hyper spectral imaging, Codec\n 
 #~~~
 #\n
-~~~
-{}{img_left}{imgs/hyeoncho.jpg}{alt text}{100px}{px}
-Hyunmin Cho | 조현민\n
-hyun_cho@korea.ac.kr\n
-\n
-B.S., Dept. of Software, Gachon University, 2024\n
-\n
-Research -  Associative Memory, Image representation\n 
-~~~
+#~~~
+#{}{img_left}{imgs/hyeoncho.jpg}{alt text}{100px}{px}
+#Hyunmin Cho | 조현민\n
+#hyun_cho@korea.ac.kr\n
+#\n
+#B.S., Dept. of Software, Gachon University, 2024\n
+#\n
+#Research -  Associative Memory, Image representation\n 
+#~~~
 #\n
 #~~~
 #{}{img_left}{imgs/changhyeon.png}{alt text}{100px}{px}
