@@ -3,6 +3,10 @@
 
 == Peer-reviewed
 === 2026
+- {{<font><b>}}Hyunmin Cho, Woo Kyoung Han {{</b></font>}}and {{<font><b>}}K.H. Jin\*{{</b></font>}}, ``Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective,'' International Conference on Machine Learning ({{<font><b>}}ICML{{</b></font>}}), 2026, Accepted
+
+- {{<font><b>}}Hyunmin Cho\*, {{</b></font>}}, Donghoon Ahn\*, Susung Hong\*, Jee Eun Kim, Seungryong Kim\* and {{<font><b>}}K.H. Jin\*{{</b></font>}}, ``TAG: Tangential Amplifying Guidance for Hallucination-Resistant Sampling,'' International Conference on Machine Learning ({{<font><b>}}ICML{{</b></font>}}), 2026, Accepted
+
 - {{<font><b>}}Mingyu Choi, Woo Kyoung Han{{</b></font>}}, Sunghoon Im\* and {{<font><b>}}K.H. Jin\*{{</b></font>}}, ``Linear Recurrent Unit with Semantic Modulation for Image Super-Resolution,'' IEEE/CVF Conference on Computer Vision and Pattern Recognition, finding ({{<font><b>}}CVPR finding{{</b></font>}}), 2026, Accepted
 
 - {{<font><b>}}Jiwon Kim, SeonHwa Kim{{</b></font>}}, Soobin Park, Eunju Cha\* and {{<font><b>}}K.H. Jin\*{{</b></font>}}, ``Semantic Alignment for Pose-Invariant Identity Preserving Diffusion,'' IEEE/CVF Conference on Computer Vision and Pattern Recognition ({{<font><b>}}CVPR{{</b></font>}}), 2026, \[[https://jwonkm.github.io/SeAl/ Project]\]
