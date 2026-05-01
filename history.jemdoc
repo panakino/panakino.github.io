@@ -1,7 +1,24 @@
 # jemdoc: menu{MENU}{history.html}
 = History 
 
-== 2024
+== 2025
+- \[2025 NOV 26\] Prof. Jin will serve as an {{<font size=+0.5><b>}}Area Chair {{</b></font>}}for {{<font size=+0.5><b>}} ICML 2026 {{</b></font>}}.\n
+- \[2025 SEP 6\] {{<font><b>}}One paper{{</b></font>}} has been accepted to {{<font color=red size=+0.5><b>}} WACV 2026! {{</b></font>}}  > [pub.html Link]
+-- Decoder based on 2D Gaussian Splatting
+
+- \[2025 JUN 26\] {{<font><b>}}4 papers{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} ICCV 2025! {{</b></font>}}  > [pub.html Link]
+-- SR w/ image-based RAG
+-- JPEG Neural Operator
+-- Dual Recursive Feedback for SDS editing
+-- LUT SR w/ interpolation kernel
+
+- \[2025 FEB 27\] {{<font><b>}}3 papers{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} CVPR 2025! {{</b></font>}}  > [pub.html Link]
+-- Lossless INR representation (LINR), \[[https://wookyounghan.github.io/LosslessINR/ Project]\]
+-- Image Editing T2I diffusion with identity-focused fixed-point iterator (IDS), \[[https://shhh0620.github.io/IDS/ Project]\]
+-- VideoSR with Fourier \& B-spline basis \[[https://eunjnnn.github.io/bfstvsr_site/ Project]\]
+
+- \[2025 FEB 17\] Prof. Jin will serve as an {{<font size=+0.5><b>}}Area Chair {{</b></font>}}for {{<font size=+0.5><b>}} NeurIPS 2025 {{</b></font>}}.\n
+
 - \[2024 DEC 16\] Prof. Jin will serve as an {{<font size=+0.5><b>}}Area Chair {{</b></font>}}for {{<font size=+0.5><b>}} ICML 2025 {{</b></font>}}.\n
 - \[2024 JUL 01\] {{<font><b>}}2 papers{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} ECCV 2024! {{</b></font>}}  > [pub.html Link]
 -- BurstM (Burst Shot SR) \[[https://arxiv.org/pdf/2409.15384  PDF], [https://github.com/Egkang-Luis/burstm {{<font color=red size=+0.5>}} Code{{</font>}}]\]
