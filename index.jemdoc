@@ -19,7 +19,7 @@ Keywords : deep learning, AI, neural networks, signal/image processing, inverse 
 
 == News
 - \[2026 MAY\] {{<font><b>}}Two regular papers{{</b></font>}} have been accepted to {{<font color=red size=+0.5><b>}} ICML 2026! {{</b></font>}}  > [pub.html Link]
--- CFG guidance using Tangential Amplifying Guidance (TAG) 
+-- single-pass CFG using Tangential Amplifying Guidance (TAG) 
 -- Balancing Fidelity and diversity in DM using Symmetric/Assymetric Decomposition of Attention w/ Hopfield Analogy 
 
 
