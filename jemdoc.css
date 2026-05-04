@@ -1,5 +1,10 @@
 /* Default css file for jemdoc. */
 
+.highlight {
+  background-color: #fff59d;  /* 부드러운 노란색 */
+  padding: 0 2px;
+}
+
 table#tlayout {
     border: none;
     border-collapse: separate;
