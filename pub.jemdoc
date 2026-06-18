@@ -3,6 +3,12 @@
 
 == Peer-reviewed
 === 2026
+- {{<font><b>}}Byeonghun Lee, Hyunmin Cho,{{</b></font>}}, Sunghoon Im{{<sup>†</sup>}}, and {{<font><b>}}K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, ``ReAL: Reference-to-Image (R2I) Aware Latent Diffusion for Iamge Super-Resolution,'' European Conference on Computer Vision ({{<span class="highlight">ECCV</span>}}), Sweden, 2026, Accepted
+
+- {{<font><b>}}Hyunmin Cho,{{</b></font>}}, Jaejun Yoo, and {{<font><b>}}K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, ``Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation,'' European Conference on Computer Vision ({{<span class="highlight">ECCV</span>}}), Sweden, 2026, Accepted
+
+- Soobin Park, Seohyeon Yoo, {{<font><b>}}Jiwon Kim, SeonHwa Kim, K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, and Eunju Cha{{<sup>†</sup>}}, ``SA-V2V: Training-free Subject-Aware Video-to-Video Personalization,'' European Conference on Computer Vision ({{<span class="highlight">ECCV</span>}}), Sweden, 2026, Accepted
+
 - Y. Kim, {{<font><b>}}K. H. Jin{{</b></font>}}, Y. Han, and K. Ryu, ``Improved Vascular Segmentation via Binary Flow Matching with Straight-Path Regularization,” Medical Image Computing and Computer Assisted Interventions ({{<span class="highlight">MICCAI</span>}}), 2026
 
 - {{<font><b>}}Hyunmin Cho, Woo Kyoung Han {{</b></font>}}and {{<font><b>}}K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, ``Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective,'' International Conference on Machine Learning ({{<span class="highlight">ICML</span>}}), Seoul, 2026, Accepted, \[[https://hyeon-cho.github.io/Balancing/ Project]\]
