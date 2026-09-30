@@ -3,17 +3,17 @@
 
 == Peer-reviewed
 === 2026
-- {{<font><b>}}Pureum Kim{{</b></font>}}, Younggeon Ryu, {{<font><b>}}Dongyoon Lee{{</b></font>}}, Hae Beom Lee{{<sup>†</sup>}}, {{<font><b>}}Kyong Hwan Jin{{<sup>†</sup>}}{{</b></font>}},``ProPolar: Progressive Polar Decomposition for Implicit Neural Representations,'' ({{<span class="highlight">NeurIPS</span>}}), 2026, Accepted
+- {{<font><b>}}Pureum Kim{{</b></font>}}, Younggeon Ryu, {{<font><b>}}Dongyoon Lee{{</b></font>}}, Hae Beom Lee{{<sup>†</sup>}}, {{<font><b>}}Kyong Hwan Jin{{<sup>†</sup>}}{{</b></font>}},``ProPolar: Progressive Polar Decomposition for Implicit Neural Representations,'' ({{<span class="highlight">NeurIPS</span>}}), 2026, Accepted,\[[https://pur3um.github.io/ProPolar/ Project]\]
 
-- {{<font><b>}}Byeonghun Lee, Hyunmin Cho{{</b></font>}}, Sunghoon Im{{<sup>†</sup>}}, and {{<font><b>}}K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, ``ReAL: Reference-to-Image (R2I) Aware Latent Diffusion for Image Super-Resolution,'' European Conference on Computer Vision ({{<span class="highlight">ECCV</span>}}), Sweden, 2026, Accepted
+- {{<font><b>}}Byeonghun Lee, Hyunmin Cho{{</b></font>}}, Sunghoon Im{{<sup>†</sup>}}, and {{<font><b>}}K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, ``ReAL: Reference-to-Image (R2I) Aware Latent Diffusion for Image Super-Resolution,'' European Conference on Computer Vision ({{<span class="highlight">ECCV</span>}}), Sweden, 2026
 
-- {{<font><b>}}Hyunmin Cho{{</b></font>}}, Jaejun Yoo, and {{<font><b>}}K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, ``Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation,'' European Conference on Computer Vision ({{<span class="highlight">ECCV</span>}}), Sweden, 2026, Accepted
+- {{<font><b>}}Hyunmin Cho{{</b></font>}}, Jaejun Yoo, and {{<font><b>}}K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, ``Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation,'' European Conference on Computer Vision ({{<span class="highlight">ECCV</span>}}), Sweden, 2026, \[[https://hyeon-cho.github.io/Harmonic-line-Spectrum/ Project]\]
 
-- Soobin Park, Seohyeon Yoo, {{<font><b>}}Jiwon Kim, SeonHwa Kim, K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, and Eunju Cha{{<sup>†</sup>}}, ``SA-V2V: Training-free Subject-Aware Video-to-Video Personalization,'' European Conference on Computer Vision ({{<span class="highlight">ECCV</span>}}), Sweden, 2026, Accepted
+- Soobin Park, Seohyeon Yoo, {{<font><b>}}Jiwon Kim, SeonHwa Kim, K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, and Eunju Cha{{<sup>†</sup>}}, ``SA-V2V: Training-free Subject-Aware Video-to-Video Personalization,'' European Conference on Computer Vision ({{<span class="highlight">ECCV</span>}}), Sweden, 2026
 
 - Y. Kim, {{<font><b>}}K. H. Jin{{</b></font>}}, Y. Han, and K. Ryu, ``Improved Vascular Segmentation via Binary Flow Matching with Straight-Path Regularization,” Medical Image Computing and Computer Assisted Interventions ({{<span class="highlight">MICCAI</span>}}), 2026
 
-- {{<font><b>}}Hyunmin Cho, Woo Kyoung Han {{</b></font>}}and {{<font><b>}}K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, ``Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective,'' International Conference on Machine Learning ({{<span class="highlight">ICML</span>}}), Seoul, 2026, Accepted, \[[https://hyeon-cho.github.io/Balancing/ Project]\]
+- {{<font><b>}}Hyunmin Cho, Woo Kyoung Han {{</b></font>}}and {{<font><b>}}K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, ``Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective,'' International Conference on Machine Learning ({{<span class="highlight">ICML</span>}}), Seoul, 2026, \[[https://hyeon-cho.github.io/Balancing/ Project]\]
 
 - {{<font><b>}}Hyunmin Cho\*, {{</b></font>}}Donghoon Ahn\*, Susung Hong\*, {{<font><b>}}Jee Eun Kim{{</b></font>}}, Seungryong Kim{{<sup>†</sup>}} and {{<font><b>}}K.H. Jin{{<sup>†</sup>}}{{</b></font>}}, ``TAG: Tangential Amplifying Guidance for Hallucination-Resistant Sampling,'' International Conference on Machine Learning ({{<span class="highlight">ICML</span>}}), Seoul, 2026, Accepted, \[[https://hyeon-cho.github.io/TAG/ Project]\]
 
