@@ -253,7 +253,7 @@ def standardconf():
   
   [lastupdated]
   <img src="kor_emblem.png" alt="KU" width="30px" height="px" />&nbsp;
-  Image Processing Algorithm Lab. (IPA) <br>
+  Information Processing Algorithm Lab. (IPA) <br>
   <a href="https://ee.korea.ac.kr/">School of Electrical Engineering</a>,
   College of Engineering, Korea University <br>
   Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.

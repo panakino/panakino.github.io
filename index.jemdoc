@@ -1,15 +1,15 @@
 # jemdoc: menu{MENU}{index.html}
-= Image Processing Algorithm Lab. @ EE, Korea University 
+= Information Processing Algorithm Lab. @ EE, Korea University 
 
 ~~~
 {}{img_left}{imgs/ipa_thumbnail2.png}{alt text}{350px}{px}
 
-고려대학교 영상처리알고리즘 연구실에 오신것을 환영합니다.\n
-We are a research group developing neural networks for image processing.\n
+고려대학교 정보처리알고리즘 연구실에 오신것을 환영합니다.\n
+We are a research group developing neural networks for information processing.\n
 IPA was founded 01SEP2023 at School of Electrical Engineering, Korea University.\n
 #IPL was founded 16FEB2021 at Dept. of Electrical Engineering and Computer Science, DGIST.\n
 \n
-Keywords : deep learning, AI, neural networks, signal/image processing, inverse problem
+Keywords : signal/image processing, inverse problem, neurosymbolic AI, world model, mechanistic interpretability
 ~~~
 
 
